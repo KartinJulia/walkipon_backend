@@ -1,0 +1,14 @@
+{
+    "category": "time_limited",
+    "created_time_utc": "2018-08-15 15:04:21.818565",
+    "criteria": {
+        "min_score": 500,
+        "required": true
+    },
+    "latitude": "13.41156",
+    "longitude": "52.522906",
+    "method": "create",
+    "release_expire_time_utc": "2018-08-20 23:59:59.818565",
+    "type": "coupon_message",
+    "usage_expire_time_utc": "2018-09-15 23:59:59.818565"
+}
